@@ -6,7 +6,6 @@
 
 using namespace std;
 
-// Định nghĩa hàm đọc mảng 2 chiều từ file.
 void readMatrix(string fileName, int **&arr, int &n)
 {
   ifstream inputFile(fileName);
