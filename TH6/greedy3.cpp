@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-#include "../common/mergesort.h"
+#include "../lib/mergesort.h"
 
 using namespace std;
 
